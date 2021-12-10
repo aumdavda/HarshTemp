@@ -2818,7 +2818,7 @@ table.order-details tbody td {
 
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-  background-size: cover;
+  background-size: contain;
 }
 .card-image-2 {
   grid-area: image;
@@ -2833,7 +2833,7 @@ table.order-details tbody td {
 
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-  background-size: cover;
+  background-size: contain;
 }
 .card-image-4 {
   grid-area: image;
@@ -4187,6 +4187,7 @@ p {
     justify-content: center;
     text-align: center;
     margin-top: 1rem;
+    padding-left: 1.5rem;
   }
 
   .headingpart h1 {
