@@ -4126,10 +4126,10 @@ p {
 
 /* media mobile*/
 @media only screen and (max-width: 361px) {
-  .wrapper2{
+  .wrapper2 {
     margin-bottom: -24rem;
   }
-  .afterpart h1{
+  .afterpart h1 {
     margin-bottom: 13rem;
   }
   .bg {
@@ -4299,7 +4299,7 @@ p {
   }
 
   #section2part {
-    margin-top: 14rem !important;
+    margin-top: -9rem !important;
     margin-bottom: 61rem !important;
   }
 
@@ -4317,7 +4317,7 @@ p {
     overflow-x: hidden;
   }
 
-  .afterpart{
+  .afterpart {
     margin-bottom: 29rem;
   }
 
@@ -4342,9 +4342,10 @@ p {
 
   .signupForm {
     width: 37vh !important;
-    margin-left: 17.7rem;
-    height: 56vh;
+    margin-left: auto !important;
+    height: 67vh;
     border-radius: 10px !important;
+    margin-right: auto !important;
   }
 
   .signupForm h2 {
@@ -4476,7 +4477,7 @@ p {
   }
 
   #section2part {
-    margin-top: -1rem !important;
+    margin-top: -27rem !important;
     margin-bottom: 23rem !important;
   }
 
@@ -4495,11 +4496,11 @@ p {
   }
 
   .afterpart {
-    margin-bottom: 22rem;
+    margin-bottom: 6rem;
   }
 
   .wrapper2 {
-    margin-top: 73rem;
+    margin-top: 34rem;
   }
 
   ::-webkit-scrollbar {
@@ -4514,7 +4515,7 @@ p {
 
   #contact-form {
     margin-top: -10rem !important;
-    height: 84vh !important;
+    height: 80vh !important;
   }
 
   .info {
@@ -4522,10 +4523,10 @@ p {
   }
 
   .signupForm {
-    width: 55vh !important;
+    width: 36vh !important;
     margin-left: auto;
     margin-right: auto;
-    height: 63.4vh;
+    height: 62.4vh;
     border-radius: 10px !important;
   }
 
@@ -4534,7 +4535,7 @@ p {
   }
 
   .inputFields {
-    width: 50vh !important;
+    width: 28vh !important;
     margin-left: -4px !important;
   }
 
@@ -4548,7 +4549,7 @@ p {
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
-    padding-top: 13rem;
+    padding-top: 6rem;
   }
 
   .headingpart p {
@@ -4585,7 +4586,7 @@ p {
   }
 
   .single-about-area {
-    margin-top: 58rem !important;
+    margin-top: -21rem !important;
     margin-right: 1rem !important;
     margin-left: 1rem !important;
   }
@@ -4664,7 +4665,7 @@ p {
     text-align: center;
     margin: 20px 0px;
     transition: box-shadow 0.2s ease-in-out;
-    height: 78vh;
+    height: 57vh;
   }
 
   #section2part {
@@ -4673,8 +4674,8 @@ p {
   }
 
   .cardpart2 {
-    width: 385px !important;
-    height: 567px !important;
+    width: 352px !important;
+    height: 625px !important;
     margin-bottom: 4rem;
     margin-right: 3rem;
     margin-left: 3rem;
@@ -4704,7 +4705,7 @@ p {
 
   #contact-form {
     margin-top: -11rem !important;
-    height: 85vh !important;
+    height: 44vh !important;
   }
 
   .video-part {
@@ -4753,7 +4754,7 @@ p {
   }
 
   .single-about-area {
-    margin-top: -50rem !important;
+    margin-top: -42rem !important;
     margin-right: 1rem !important;
     margin-left: 1rem !important;
   }
@@ -4832,11 +4833,11 @@ p {
     text-align: center;
     margin: 20px 0px;
     transition: box-shadow 0.2s ease-in-out;
-    height: 78vh;
+    height: 42vh;
   }
 
   #section2part {
-    margin-top: -39rem !important;
+    margin-top: 6rem !important;
     margin-bottom: 48rem !important;
   }
 
@@ -4846,7 +4847,7 @@ p {
   }
 
   .afterpart {
-    margin-bottom: 36rem;
+    margin-bottom: 6rem;
   }
 }
 /* end of ipad pro*/
