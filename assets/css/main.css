@@ -2868,7 +2868,7 @@ table.order-details tbody td {
   text-align: center;
   justify-content: center;
   display: block;
-  margin-top: 60px;
+  margin-top: 168px;
 }
 .offertext p {
   font-size: 1.5rem;
@@ -4115,6 +4115,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 10rem;
 }
 
 .afterpart h1 {
@@ -4666,7 +4667,7 @@ p {
     text-align: center;
     margin: 20px 0px;
     transition: box-shadow 0.2s ease-in-out;
-    height: 70vh;
+    height: 76vh;
   }
 
   #section2part {
